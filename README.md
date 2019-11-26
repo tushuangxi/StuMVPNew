@@ -1,3 +1,2 @@
-MVPDemo
-RxJava+retrofit+okhttp的Mvp开发模式框架
+六. 项目开发基本架构 rxjava2+retrofit2+mvp
 
